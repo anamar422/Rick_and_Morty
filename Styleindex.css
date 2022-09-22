@@ -1,0 +1,177 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #72C7D0;
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #233160;
+    height:50px;
+    padding: 0px 20px;
+   
+}
+#buttonAme{
+    background-color: #D7F2F2;
+    color: #233160;
+    border-radius: 25px;
+    height: 27px;
+    width:132px;
+    border-style: none;
+}
+
+.sectionone{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    color:#233160;
+    font-family: "roboto";
+    font-size: 18px;
+    text-align: justify;
+    padding: 0px 30px;
+}
+
+.RyM{
+    width: 452px;
+    height: 351px;
+    padding-left: 50px;
+    margin-top: 30px;
+
+}
+
+h1{
+    font-family: "roboto";
+    font-size: 32px;
+}
+
+.aboutRM{
+    height: 252px;
+    width: 706px;
+}
+
+.bold{
+    font-style: bold;
+}
+
+.navbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color:#96C96A;
+    font-family: "roboto";
+    font-size: 15px;
+    color: #233160;
+    list-style: none;
+    padding: 0px 80px;
+}
+
+.sectionTwo{
+    display: flex;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 18px;
+    padding: 30px; 
+    background-color: #72C7D0;
+    font-family: "inter";
+   
+    }
+
+.instructions{
+    text-align: center;
+   }
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 580px;
+    width:280px;
+    background-color: #D7F2F2;
+    border-radius: 25px;
+
+}
+
+.photo{
+    height: 300px;
+    width: 240px;
+    background-color: white;
+    border-radius: 25px;
+    margin-top: 60px;
+}
+
+.img{
+    height:300px;
+    width:240px;
+    border-radius: 25px;
+   
+}
+
+h2{
+    font-family: "roboto";
+    font-size: 20px;
+    color: #233160;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+.gender{
+    display: flex;
+    justify-content: center;
+    background-color: #96C96A;
+    color: white;
+    border-radius: 25px;
+    font-size: 16px;
+    height: 25px;
+    width: 150px;
+    margin-top: 25px;
+    padding: 5px;
+}
+
+.status{
+    font-family: "roboto";
+    font-size: 20px;
+    color: #233160;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+footer{
+    background-color: #96C96A;
+    font-family: 'work-sans', sans-serif;
+    height: 100px;
+    padding: 50px 60px;
+    display:flex;
+    justify-content: space-between;
+    align-items: space-between;
+    color:white;
+
+}
+#nombreana{
+    color: white;
+}
+
+.divfooter{
+    display:flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    padding: 5px;
+    list-style: none;
+}
+
+h4{
+    color: white;
+}
+
+   
